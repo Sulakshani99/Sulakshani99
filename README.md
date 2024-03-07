@@ -1,4 +1,4 @@
-<h1 align="left">HI 👋 , I'm Sulakshani Tasheena</h1>
+<h1 align="left">HI 👋 , I'm Sulakshani Tashina</h1>
 
 ###
 
