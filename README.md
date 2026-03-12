@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-- 🎓 B.Sc. (Hons) in Computer Engineering — University of Ruhuna, Galle (2021–2025) | GPA: 3.195<br><br>
+- 🎓 B.Sc. (Hons) in Computer Engineering — University of Ruhuna, Galle (2021–2025)<br><br>
 - ☁️ Passionate about <strong>AWS Cloud Infrastructure, DevOps, and CI/CD Pipelines</strong><br><br>
 - 🛠️ Skilled in deploying scalable, secure systems on AWS using Docker, Jenkins, Nginx & Terraform<br><br>
 - 💼 Former <strong>Software QA Intern @ Cambio Software</strong> — Selenium automation & Agile/Scrum<br><br>
