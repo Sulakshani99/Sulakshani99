@@ -11,7 +11,7 @@
 - ☁️ Passionate about <strong>AWS Cloud Infrastructure, DevOps, and CI/CD Pipelines</strong><br><br>
 - 🛠️ Skilled in deploying scalable, secure systems on AWS using Docker, Jenkins, Nginx & Terraform<br><br>
 - 💼 Former <strong>Software QA Intern @ Cambio Software</strong> — Selenium automation & Agile/Scrum<br><br>
-- 🚀 Currently seeking an <strong>Associate DevOps Engineer</strong> role<br><br>
+- 🚀 Currently seeking an <strong>Associate/Entry Level DevOps/Cloud Engineer</strong> roles<br><br>
 - 🏡 Lives in Nittambuwa, Sri Lanka<br><br>
 - ⚡ Fun Facts: 🍕 📷 💻
 </p>
